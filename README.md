@@ -17,6 +17,6 @@ Assign the root bone, and click the `Precache` button.
 
 
 ## Notes
-- Uses Naughty Attributes (https://unitylist.com/p/so/Naughty-Attributes) instead for a button.
+- Uses __Naughty Attributes__ instead for a button.
 
 - Uses lists now instead of dictionaries, which serialize properly at edit time.
